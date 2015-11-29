@@ -5,7 +5,7 @@ import (
 
 	stdtesting "testing"
 
-	"labix.org/v2/mgo"
+	"gopkg.in/mgo.v2"
 	. "launchpad.net/gocheck"
 	juju_testing "launchpad.net/juju-core/testing"
 
