@@ -22,8 +22,8 @@ import (
 
 	. "launchpad.net/gocheck"
 
-	"github.com/juju/affinity/storage/mem"
-	"github.com/juju/affinity/testing"
+	"github.com/ngConsulti/affinity/storage/mem"
+	"github.com/ngConsulti/affinity/testing"
 )
 
 type AffinitySuite struct {

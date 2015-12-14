@@ -24,7 +24,7 @@ import (
 	"path"
 	"strings"
 
-	. "github.com/juju/affinity"
+	. "github.com/ngConsulti/affinity"
 )
 
 const AuthDirName = "auth"

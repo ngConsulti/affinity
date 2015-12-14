@@ -3,7 +3,7 @@ package rbac_test
 import (
 	"testing"
 
-	"github.com/juju/affinity/rbac"
+	"github.com/ngConsulti/affinity/rbac"
 )
 
 /*

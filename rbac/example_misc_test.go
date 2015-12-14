@@ -1,7 +1,7 @@
 package rbac_test
 
 import (
-	. "github.com/juju/affinity"
+	. "github.com/ngConsulti/affinity"
 )
 
 var messageBoardLastId int = 0

@@ -27,8 +27,8 @@ import (
 	"github.com/gorilla/sessions"
 	"launchpad.net/usso"
 
-	. "github.com/juju/affinity"
-	"github.com/juju/affinity/providers/common"
+	. "github.com/ngConsulti/affinity"
+	"github.com/ngConsulti/affinity/providers/common"
 )
 
 type scheme struct {

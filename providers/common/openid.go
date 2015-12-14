@@ -30,7 +30,7 @@ import (
 	"github.com/gorilla/sessions"
 	"github.com/kushaldas/openid.go/src/openid"
 
-	"github.com/juju/affinity"
+	"github.com/ngConsulti/affinity"
 )
 
 type OpenID struct {

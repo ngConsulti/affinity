@@ -25,9 +25,9 @@ import (
 
 	"launchpad.net/gnuflag"
 
-	. "github.com/juju/affinity"
-	"github.com/juju/affinity/client"
-	"github.com/juju/affinity/client/group"
+	. "github.com/ngConsulti/affinity"
+	"github.com/ngConsulti/affinity/client"
+	"github.com/ngConsulti/affinity/client/group"
 )
 
 type groupCmd struct {

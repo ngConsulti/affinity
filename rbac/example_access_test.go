@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"testing"
 
-	. "github.com/juju/affinity"
-	"github.com/juju/affinity/rbac"
-	"github.com/juju/affinity/storage/mem"
+	. "github.com/ngConsulti/affinity"
+	"github.com/ngConsulti/affinity/rbac"
+	"github.com/ngConsulti/affinity/storage/mem"
 )
 
 // MessageBoard defines the interface for a message board service.

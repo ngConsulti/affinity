@@ -21,8 +21,8 @@ import (
 	"gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
 
-	"github.com/juju/affinity/rbac"
-	"github.com/juju/affinity/util"
+	"github.com/ngConsulti/affinity/rbac"
+	"github.com/ngConsulti/affinity/util"
 )
 
 type grant struct {

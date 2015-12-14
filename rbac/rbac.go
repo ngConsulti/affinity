@@ -20,7 +20,7 @@ package rbac
 import (
 	"fmt"
 
-	. "github.com/juju/affinity"
+	. "github.com/ngConsulti/affinity"
 )
 
 var ErrNotFound error = fmt.Errorf("Not found")

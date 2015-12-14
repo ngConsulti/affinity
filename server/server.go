@@ -24,8 +24,8 @@ import (
 
 	"github.com/gorilla/mux"
 
-	. "github.com/juju/affinity"
-	"github.com/juju/affinity/rbac"
+	. "github.com/ngConsulti/affinity"
+	"github.com/ngConsulti/affinity/rbac"
 )
 
 type Response struct {

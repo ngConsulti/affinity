@@ -20,7 +20,7 @@ package client
 import (
 	"net/http"
 
-	. "github.com/juju/affinity"
+	. "github.com/ngConsulti/affinity"
 )
 
 // AuthClient is an *http.Client that is able to automatically

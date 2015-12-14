@@ -18,8 +18,8 @@
 package mem
 
 import (
-	"github.com/juju/affinity/rbac"
-	"github.com/juju/affinity/util"
+	"github.com/ngConsulti/affinity/rbac"
+	"github.com/ngConsulti/affinity/util"
 )
 
 type grant struct {

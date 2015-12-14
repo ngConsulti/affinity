@@ -6,8 +6,8 @@ import (
 
 	. "launchpad.net/gocheck"
 
-	. "github.com/juju/affinity"
-	"github.com/juju/affinity/client"
+	. "github.com/ngConsulti/affinity"
+	"github.com/ngConsulti/affinity/client"
 )
 
 func (s *ClientSuite) TestGetSetExists(c *C) {

@@ -5,7 +5,7 @@ import (
 
 	. "launchpad.net/gocheck"
 
-	. "github.com/juju/affinity/client"
+	. "github.com/ngConsulti/affinity/client"
 )
 
 // Hook up gocheck into the "go test" runner.

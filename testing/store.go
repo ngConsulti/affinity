@@ -20,7 +20,7 @@ package testing
 import (
 	. "launchpad.net/gocheck"
 
-	"github.com/juju/affinity/rbac"
+	"github.com/ngConsulti/affinity/rbac"
 )
 
 type StoreTests struct {

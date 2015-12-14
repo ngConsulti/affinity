@@ -25,10 +25,10 @@ import (
 
 	"github.com/gorilla/mux"
 
-	. "github.com/juju/affinity"
-	"github.com/juju/affinity/group"
-	"github.com/juju/affinity/rbac"
-	"github.com/juju/affinity/server"
+	. "github.com/ngConsulti/affinity"
+	"github.com/ngConsulti/affinity/group"
+	"github.com/ngConsulti/affinity/rbac"
+	"github.com/ngConsulti/affinity/server"
 )
 
 // GroupServer exposes affinity's principal group management over a RESTful API.

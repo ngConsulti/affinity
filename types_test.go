@@ -3,7 +3,7 @@ package affinity_test
 import (
 	. "launchpad.net/gocheck"
 
-	. "github.com/juju/affinity"
+	. "github.com/ngConsulti/affinity"
 )
 
 var id Identity = Identity{Scheme: "foo", Id: "bar"}

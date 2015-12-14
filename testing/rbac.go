@@ -20,8 +20,8 @@ package testing
 import (
 	. "launchpad.net/gocheck"
 
-	. "github.com/juju/affinity"
-	"github.com/juju/affinity/rbac"
+	. "github.com/ngConsulti/affinity"
+	"github.com/ngConsulti/affinity/rbac"
 )
 
 type RbacTests struct {

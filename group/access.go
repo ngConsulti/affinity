@@ -20,8 +20,8 @@ package group
 import (
 	"fmt"
 
-	. "github.com/juju/affinity"
-	"github.com/juju/affinity/rbac"
+	. "github.com/ngConsulti/affinity"
+	"github.com/ngConsulti/affinity/rbac"
 )
 
 // GroupService provides group administration and queries with access controls.
